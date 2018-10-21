@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 4,
   "clippingMaskMode": 0,
-  "do_objectID": "5FCA8135-C635-4D28-BFE9-B2E6A7C67ED4",
+  "do_objectID": "7C681764-7E29-423B-B25E-E9AA5F06F10F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 187,
-    "width": 189,
-    "x": 343,
-    "y": 443
+    "height": 124,
+    "width": 124,
+    "x": 560,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -37,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,11 +49,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "polygon",
-      "id": "0C3589D1-39F6-4F3F-BFA4-A5F49A3D5B9F"
+      "class": "triangle",
+      "id": "1C95A270-55BF-452B-B283-60ACC6CF1DA5"
     }
   ],
-  "name": "Artboard",
+  "name": "Triangle",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -65,6 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "22DDA540-1A4A-4899-AADD-9DDCA890599A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
