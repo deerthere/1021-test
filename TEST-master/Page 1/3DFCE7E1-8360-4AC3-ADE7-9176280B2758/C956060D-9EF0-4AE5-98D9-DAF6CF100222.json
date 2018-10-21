@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A309F1F7-F129-4E06-9E2A-E5AB47A6BCBC",
+  "do_objectID": "C956060D-9EF0-4AE5-98D9-DAF6CF100222",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 128,
-    "width": 128,
-    "x": 28,
-    "y": 32
+    "height": 124,
+    "width": 124,
+    "x": 40,
+    "y": 29
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Polygon",
+  "name": "Triangle",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -44,6 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "7AE93056-DEEE-4A0C-989E-F3DFC6EB50C8",
+  "symbolID": "9A01E9AC-451C-436F-ADD2-55F4829B4B42",
   "verticalSpacing": 0
 }
