@@ -10,7 +10,7 @@
   "booleanOperation": -1,
   "changeIdentifier": 4,
   "clippingMaskMode": 0,
-  "do_objectID": "7C681764-7E29-423B-B25E-E9AA5F06F10F",
+  "do_objectID": "3038705B-3940-4875-A401-1F8CE8C919B3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,9 +23,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 124,
-    "width": 124,
-    "x": 560,
+    "height": 123,
+    "width": 137,
+    "x": 323,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -49,11 +49,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "triangle",
-      "id": "1C95A270-55BF-452B-B283-60ACC6CF1DA5"
+      "class": "rectangle",
+      "id": "33F5BD4A-FBFE-427B-8680-11873F5DF3E0"
     }
   ],
-  "name": "Triangle",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -67,7 +67,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "22DDA540-1A4A-4899-AADD-9DDCA890599A",
+  "symbolID": "E71B3478-062A-429B-947C-1DE3F30AB86E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
