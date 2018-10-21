@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "7a8db890-d4fe-11e8-ae26-af1824c29c28",
+  "do_objectID": "ABB20399-A7CB-44CD-88C0-0D5A658B3647",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,68 +22,52 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 175,
+    "width": 189,
+    "x": 343,
+    "y": 431
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "62E1C888-D15C-4214-B44E-CAAD61AAEFDB"
-    },
-    {
-      "class": "artboard",
-      "id": "CD44D486-9B15-4C3E-8D21-89DEC255C070"
-    },
-    {
-      "class": "artboard",
-      "id": "3DFCE7E1-8360-4AC3-ADE7-9176280B2758"
-    },
-    {
-      "class": "artboard",
-      "id": "ABB20399-A7CB-44CD-88C0-0D5A658B3647"
-    },
-    {
-      "class": "artboard",
-      "id": "5E585CAA-41CD-41EF-9BC5-A947FF08913F"
-    },
-    {
-      "class": "artboard",
-      "id": "B72EE897-50CE-46A3-A960-8C729FEDE82D"
+      "class": "polygon",
+      "id": "9AD417E6-4267-427B-91B8-76FF5EEFE00A"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "a",
+  "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
