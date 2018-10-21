@@ -2,7 +2,7 @@
   "_class": "polygon",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9AD417E6-4267-427B-91B8-76FF5EEFE00A",
+  "do_objectID": "092DF53E-9CF1-4F52-AC78-7B9632924FFC",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 123,
-    "width": 123,
-    "x": 33,
-    "y": 28
+    "height": 135,
+    "width": 135,
+    "x": 27,
+    "y": 31
   },
   "hasClippingMask": false,
   "isClosed": true,

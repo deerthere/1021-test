@@ -2,11 +2,11 @@
   "_class": "polygon",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D5A26E8C-C685-4FDA-87F0-554AD95123E8",
+  "do_objectID": "9D4B542F-8C23-4F6A-A239-06249285E95F",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0EC6163F-1646-419A-A33B-42C88F03E8C5",
+    "do_objectID": "312FB007-3CA2-49E3-9028-6F5B44FF3464",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,11 +17,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "919CEC06-FBFD-4048-8908-201CF262FCE2",
-    "height": 123,
-    "width": 123,
-    "x": 33,
-    "y": 28
+    "do_objectID": "B004AF04-957C-4277-9B91-E8CE002D7781",
+    "height": 135,
+    "width": 135,
+    "x": 27,
+    "y": 31
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -109,7 +109,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "BCE64D44-74D7-44B5-88F0-F719D6BDCA51",
+    "do_objectID": "AF10B0E6-B76E-4272-AD0B-548C2B5B82C9",
     "endMarkerType": 0,
     "fills": [
       {

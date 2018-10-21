@@ -4,14 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "F1BA2731-5373-4A8F-A1A7-828685254688",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "ABB20399-A7CB-44CD-88C0-0D5A658B3647",
+  "do_objectID": "4FA081FD-AAB0-4867-9493-91410B2B797F",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "A2B172B3-DABA-4C42-9BB3-0538ECECE8E2",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,17 +24,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 175,
+    "do_objectID": "70AD3CAE-4FA8-46B2-B566-EF4B773D31CA",
+    "height": 197,
     "width": 189,
-    "x": 343,
-    "y": 431
+    "x": 583,
+    "y": 470
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "ECE84C26-FCFD-4F6E-A9A7-4CC748A2FABD",
     "guides": [
     ]
   },
@@ -48,11 +52,11 @@
   "layers": [
     {
       "class": "polygon",
-      "id": "9AD417E6-4267-427B-91B8-76FF5EEFE00A"
+      "id": "C0B06322-BFD3-4007-8B74-D2FB75ECFFA9"
     }
   ],
-  "name": "a",
-  "nameIsFixed": true,
+  "name": "Artboard Copy",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,6 +64,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "5B0BFFB3-306A-4B69-AE1D-BE3179B5EFD6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -68,6 +73,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "71AA042F-F091-489F-9A5E-A39A9EA79639",
     "guides": [
     ]
   }

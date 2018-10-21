@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "5EA21C2F-EA4D-4BBA-BA43-74834CE04997",
+    "do_objectID": "D96EF87A-3166-4FBA-B765-B1641B80E12A",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5E585CAA-41CD-41EF-9BC5-A947FF08913F",
+  "do_objectID": "106EE3FB-6915-4DAC-B86D-84C22667D044",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5DCDA82E-38F0-49BF-8B92-69C759CE73AD",
+    "do_objectID": "7BD486F6-7728-40AE-BF36-0AA7D903A278",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +24,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "15692F9F-BBBF-4598-B04A-88DFB20DCD2B",
-    "height": 175,
+    "do_objectID": "56DA4789-7A21-4D1F-A91D-BB94D8033242",
+    "height": 197,
     "width": 189,
-    "x": 583,
-    "y": 431
+    "x": 814,
+    "y": 470
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -36,7 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "64F43292-6D66-4462-B1C8-B28672A0D08E",
+    "do_objectID": "22B73E4D-9835-4E71-A4D4-96E36B023277",
     "guides": [
     ]
   },
@@ -52,11 +52,11 @@
   "layers": [
     {
       "class": "polygon",
-      "id": "D5A26E8C-C685-4FDA-87F0-554AD95123E8"
+      "id": "9D4B542F-8C23-4F6A-A239-06249285E95F"
     }
   ],
-  "name": "a copy",
-  "nameIsFixed": true,
+  "name": "Artboard Copy 2",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -64,7 +64,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "23F03DFE-7E61-4842-BE2F-6750042ACDD4",
+    "do_objectID": "7049FB42-D668-4C14-8BD2-D945A76E7149",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -73,7 +73,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "BE328A1A-C158-44D7-805A-8D2DDEB794CA",
+    "do_objectID": "7013D5E3-13D4-4465-980E-79C069A16536",
     "guides": [
     ]
   }
