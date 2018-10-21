@@ -28,7 +28,7 @@
     "y": 211
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -47,8 +47,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "33F5BD4A-FBFE-427B-8680-11873F5DF3E0"
+      "class": "symbolInstance",
+      "id": "13E8D402-B22B-41BB-9DEC-6EC06B791993"
     }
   ],
   "name": "2",
